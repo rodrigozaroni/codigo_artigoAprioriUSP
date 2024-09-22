@@ -7,5 +7,5 @@ python FlaskAPIVEcom.py
 Executar o Modelo => Colab ou Jupyter
 Analise_de_Carrinho_TCC_VendasEcom_Jupyter_Colab.ipynb
 
-Carregar o Dataset
-Vendas_ECom.xlsx
+Popular e Carregar o Dataset
+Vendas_ECom.xlsx (modelo no repo, porém sem dados)
